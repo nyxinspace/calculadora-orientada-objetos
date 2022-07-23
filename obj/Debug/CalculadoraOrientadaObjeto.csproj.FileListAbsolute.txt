@@ -1,0 +1,7 @@
+C:\Users\Rodox\Desktop\MOO\CalculadoraOrientadaObjeto\CalculadoraOrientadaObjeto\bin\Debug\CalculadoraOrientadaObjeto.exe
+C:\Users\Rodox\Desktop\MOO\CalculadoraOrientadaObjeto\CalculadoraOrientadaObjeto\bin\Debug\CalculadoraOrientadaObjeto.pdb
+C:\Users\Rodox\Desktop\MOO\CalculadoraOrientadaObjeto\CalculadoraOrientadaObjeto\obj\Debug\CalculadoraOrientadaObjeto.csprojResolveAssemblyReference.cache
+C:\Users\Rodox\Desktop\MOO\CalculadoraOrientadaObjeto\CalculadoraOrientadaObjeto\obj\Debug\CalculadoraOrientadaObjeto.MainForm.resources
+C:\Users\Rodox\Desktop\MOO\CalculadoraOrientadaObjeto\CalculadoraOrientadaObjeto\obj\Debug\CalculadoraOrientadaObjeto.csproj.GenerateResource.Cache
+C:\Users\Rodox\Desktop\MOO\CalculadoraOrientadaObjeto\CalculadoraOrientadaObjeto\obj\Debug\CalculadoraOrientadaObjeto.exe
+C:\Users\Rodox\Desktop\MOO\CalculadoraOrientadaObjeto\CalculadoraOrientadaObjeto\obj\Debug\CalculadoraOrientadaObjeto.pdb
